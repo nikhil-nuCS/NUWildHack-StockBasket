@@ -15,7 +15,7 @@ It is a user-friendly platform that provides users with a modern investing solut
 
 
 - **Frontend:** React, Bootstrap, HTML/CSS, React-router, Axios
-- **Backend:** Firebase-authentication, Flask, Firebase-realtime-databse, Python
+- **Backend:** Firebase-authentication, Flask, Firebase-realtime-database, Python
 - **API:** Polygon.io, robinhood, twelveData
 
 
