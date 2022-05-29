@@ -60,7 +60,11 @@ It is a user-friendly platform that provides users with a modern investing solut
 
 ![Create Basket](/images/own.jpeg)
 
-## Demo
+## Demo: https://youtu.be/DNl9mmrEYNo
+
+## Credentials
+username: az@yop.com
+password: password
 
 ### WebApp Link - [StockBasket](https://nuhacks-nar.herokuapp.com/)
 
