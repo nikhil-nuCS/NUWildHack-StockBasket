@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Faustina|Kreon|Rasa');
+
+.all-baskets{
+    display: flex;
+    flex-direction: column;
+}
+
+.basket-wrapper{
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.all-basket-list {
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    margin-top: 30px;
+}
+
+
+.section-title-allbasket {
+    font-family: Faustina;
+    margin-top: 30px;
+}
+
+.section-text-allbasket {
+    font-family: Rasa;
+    font-size: 13pt;
+}
+
+.filter-wrapper{
+    text-align: left;
+    padding: 10px;
+}
+
+.basket-content {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 20px;
+    padding-left: 0;
+}
+
+.image-basket-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    margin-left: 10px;
+}
+
+.img-thumbnail {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.basket-title {
+    font-family: Kreon;
+    font-weight: 500;
+}
+
+.basket-text {
+    font-family: Bitter;
+    text-align: justify;
+    font-size: 12pt;
+}
+
+.list-group-item {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 7px;
+}

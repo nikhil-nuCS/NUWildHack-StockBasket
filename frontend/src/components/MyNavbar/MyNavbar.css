@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Faustina|Kreon');
+
+.MyNavbar {}
+
+.navbar {
+    font-family: Bitter;
+    background: #2a1d64;
+}
+
+.d-flex {
+    font-family: Kreon;
+}
+
+.navbar-collapse {
+    font-family: Kreon;
+}

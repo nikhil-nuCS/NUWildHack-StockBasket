@@ -1,0 +1,9 @@
+.MyBasketPage {}
+
+.stocks-list {
+    display: flex;
+    justify-content: flex-start;
+}
+.stock-list-item {
+    margin-right: 15px;
+}

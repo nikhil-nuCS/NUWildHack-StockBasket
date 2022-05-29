@@ -1,0 +1,18 @@
+.PrivateRouteVendor {}
+
+.form-overlay-vendor {
+    width: 500px;
+    height: auto;
+    min-height: 560px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+    background-image: linear-gradient(-225deg,#FFE6FA 50%, #E3FDF5 50%);
+
+}

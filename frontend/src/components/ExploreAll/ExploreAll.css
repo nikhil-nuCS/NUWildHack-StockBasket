@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Faustina|Kreon|Lato');
+
+.card-wrapper{
+    padding: 10px;
+}
+.explore{
+    display: flex;
+    margin-top: 15px;
+}
+.card-img-size{
+    object-fit: scale-down;
+}
+
+.card-header {
+    font-family: Bitter;
+    font-weight: bold;
+}
+
+.card-title {
+    font-family: Lato;
+    font-weight: 500;
+    font-size: 13pt;
+}
+
+.card-text {
+    font-family: Bitter;
+    font-weight: 300;
+    font-size: 12pt;
+}
+
+.card-btn {
+    font-family: Faustina;
+    font-size: 12pt;
+}
+
+.blockquote-footer {
+    font-family: Lato;
+}

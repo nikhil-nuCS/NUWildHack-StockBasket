@@ -1,0 +1,18 @@
+Flask
+Flask-RESTful
+pyrebase4
+Flask-Cors
+requests
+python-dotenv       # support for environment variables
+shortuuid
+
+#requests            # for testing
+#dnspython            # support for connecting to remote MongoDB
+#Flask-JWT-Extended
+
+#psycopg2-binary         # PostgreSQL DB connector
+#SQLAlchemy
+#Flask-SQLAlchemy    # Python <--> DB ORM
+#pylint-django        # linter help
+#Faker               # to install fake data
+#gunicorn
