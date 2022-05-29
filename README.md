@@ -56,6 +56,10 @@ It is a user-friendly platform that provides users with a modern investing solut
 
 ![My Baskets](/images/bought.jpeg)
 
+6. The user can select their choice of stocks and create a basket unique to them.
+
+![Create Basket](/images/own.jpeg)
+
 ## Demo
 
 ### WebApp Link - [StockBasket](https://nuhacks-nar.herokuapp.com/)
