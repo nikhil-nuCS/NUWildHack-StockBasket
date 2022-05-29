@@ -1,5 +1,5 @@
 # NUWildHack-StockBasket
-# StockBasket - Basket of stock that refelcts a theme.
+# StockBasket - Basket of stocks that refelcts a theme.
 
 ## Problem Statement
 
