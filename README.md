@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-When retail customers enter the stock investment and trading world, they face many problems in researching and finding the right investing strategy for themselves. However, after Coronavirus, people have realized the importance of financial stability.
+When retail customers enter the stock investment and trading world, they face many problems in researching and finding the right investing strategy for themselves. Moreover, given the recent evets, people have realized the importance of financial stability.
 
 ## Our Solution
 
