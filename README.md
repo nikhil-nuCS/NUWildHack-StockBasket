@@ -48,17 +48,24 @@ It is a user-friendly platform that provides users with a modern investing solut
 
 ![All baskets](/images/allbaskets.jpeg)
 
-4. After clicking on all managers, the user will see the managers who have created baskets and their descriptions and ratings.
+4. They can select a particular basket and add it to their portfolio.
+
+![Add basket](/images/addbasket.jpeg)
+
+5. After clicking on all managers, the user will see the managers who have created baskets and their descriptions and ratings.
 
 ![All Managers](/images/allmanagers.jpeg)
 
-5. After clicking on My Baskets, the user will see baskets in which they have invested.
+6. After clicking on My Baskets, the user will see baskets in which they have invested.
 
 ![My Baskets](/images/bought.jpeg)
 
-6. The user can select their choice of stocks and create a basket unique to them.
+7. The user can select their choice of stocks and create a basket unique to them.
 
 ![Create Basket](/images/own.jpeg)
+
+8. Firebase Database Storage.
+![Firebase Storage](/images/firebase.jpeg)
 
 ## Demo: https://youtu.be/DNl9mmrEYNo
 
