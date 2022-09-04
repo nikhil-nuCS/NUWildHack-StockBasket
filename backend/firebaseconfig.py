@@ -3,13 +3,13 @@ import pyrebase
 
 class FirebaseFlaskConfig:
     firebaseConfig = {
-        "apiKey": "AIzaSyC5aFHgfudn6WnY4YPIOiKd6VXy56YahDo",
-        "authDomain": "stockbasket-2201.firebaseapp.com",
-        "databaseURL": "https://stockbasket-2201-default-rtdb.firebaseio.com",
-        "projectId": "stockbasket-2201",
-        "storageBucket": "stockbasket-2201.appspot.com",
-        "messagingSenderId": "33605817709",
-        "appId": "1:33605817709:web:ed3f7f196cac05b87bb664"
+        "apiKey": "",
+        "authDomain": "",
+        "databaseURL": "",
+        "projectId": "",
+        "storageBucket": "",
+        "messagingSenderId": "",
+        "appId": ""
         }
     
     def __init__(self):
